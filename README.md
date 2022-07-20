@@ -1,6 +1,6 @@
-# tinkerers_inventory
+# Inventory App
 
-A new Flutter project.
+An inventory app designed for the Tinkerer's Lab in IITH. 
 
 ## Getting Started
 
