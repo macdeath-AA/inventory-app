@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832454982911",
+    "project_id": "tinkerers-inventory",
+    "storage_bucket": "tinkerers-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832454982911:android:0580649eca3f11154660ca",
+        "android_client_info": {
+          "package_name": "com.example.tinkerers_inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832454982911-brmq6j4ld1aeoror4g1kch0kmg8jaal6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WVw2Ula_1-femRRB0Bc-EdOQVEdNYdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832454982911-brmq6j4ld1aeoror4g1kch0kmg8jaal6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
